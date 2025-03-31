@@ -32,6 +32,8 @@ This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yo
 
 ![Image](https://github.com/user-attachments/assets/fdbf05aa-1b69-453c-aa04-ec1a047b5614)
 ![Image](https://github.com/user-attachments/assets/f1a25d77-2530-4eaf-9982-12544477b876)
+![Image](https://github.com/user-attachments/assets/4e1fac26-793d-4e74-80bf-9b7e7e710c4d)
+
 
 ## Results & Insights
 1. **Financial Inclusion Expansion:**
