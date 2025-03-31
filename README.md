@@ -1,5 +1,7 @@
 # Pradhan Mantri Jan Dhan Yojana (PMJDY) - Data Analysis Dashboard
 
+![Image](https://github.com/user-attachments/assets/78c6221b-b91a-4d89-94d1-92098f1a9f19)
+
 ## Overview
 This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yojana (PMJDY)** using key financial inclusion metrics. The dashboard presents insights into the number of beneficiaries, total balances, RuPay card issuance, and rural vs. urban distributions.
 
@@ -28,6 +30,8 @@ This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yo
 
 ## Dashboard
 
+![Image](https://github.com/user-attachments/assets/fdbf05aa-1b69-453c-aa04-ec1a047b5614)
+![Image](https://github.com/user-attachments/assets/f1a25d77-2530-4eaf-9982-12544477b876)
 
 ## Results & Insights
 1. **Financial Inclusion Expansion:**
