@@ -17,8 +17,8 @@ This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yo
 - **Total RuPay Cards Issued:** 377.7M
 - **Percentage of Beneficiaries with RuPay Cards:** 68.49%
 - **Rural vs Urban Beneficiaries:**
-  - Rural: 184M (33.42%)
-  - Urban: 367M (66.58%)
+  - **Rural:** **367M (66.58%)**
+  - **Urban:** **184M (33.42%)**
 
 ## State-wise Beneficiary Insights
 | State          | Total Beneficiaries | Rural Beneficiaries | Urban Beneficiaries |
@@ -35,31 +35,35 @@ This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yo
 ![Image](https://github.com/user-attachments/assets/4e1fac26-793d-4e74-80bf-9b7e7e710c4d)
 
 
-## Results & Insights
-1. **Financial Inclusion Expansion:**
-   - PMJDY has provided **banking access to 551.4M people**.
-   - Total savings of **₹2,60,585 crore** indicate financial engagement.
-2. **Digital & Card Adoption:**
-   - **68.49% of beneficiaries** have RuPay cards, promoting digital transactions.
-3. **Urban vs Rural Split:**
-   - Urban beneficiaries **(66.58%) dominate**, but rural participation remains crucial.
-4. **State-wise Trends:**
-   - **Uttar Pradesh** leads with **98M** beneficiaries.
-   - **Bihar, West Bengal, and Madhya Pradesh** have strong participation.
-5. **Improvement Areas:**
-   - Enhance **RuPay card adoption** beyond 68.49%.
-   - Increase **rural banking participation**.
+## 🔍 Results & Insights
+
+1. **Strong Rural Financial Inclusion:**
+   - Rural beneficiaries constitute **66.58% (367M people)**, showing a strong focus on rural banking access.
+   - Urban beneficiaries make up **33.42% (184M people)**, reflecting good coverage but with potential for growth.
+
+2. **Substantial Financial Activity:**
+   - **₹2,60,585 crore** in total account balances highlights active participation and financial engagement.
+   - RuPay card adoption at **68.49%** suggests increased digital transaction usage, with room for further expansion.
+
+3. **State-Wise Distribution Variability:**
+   - **Uttar Pradesh, Bihar, West Bengal, and Madhya Pradesh** lead in the number of beneficiaries.
+   - States with high rural populations have a larger share of PMJDY accounts, emphasizing financial inclusion efforts.
+
+4. **Opportunities for Growth:**
+   - Expanding **RuPay card penetration** to improve digital banking.
+   - **Targeted awareness programs** to boost urban participation.
+   - Implementing **region-specific financial strategies** for balanced coverage across states.
+
+## 📌 Conclusion
+
+- PMJDY has **successfully prioritized rural banking**, with **over 66% of beneficiaries from rural areas**.
+- The scheme has mobilized **substantial savings (₹2,60,585 crore)**, contributing to financial security.
+- **RuPay card adoption is strong but can be further improved** to drive digital transactions.
+- **State-wise participation is uneven**, requiring tailored strategies for broader financial inclusion.
    
 ## Technologies Used
 - **Power BI** for visualization
 - **EXCEL** for data extraction & transformation
-
-
-## Contribution
-Feel free to fork the repository and contribute by:
-- Improving data analysis.
-- Enhancing visualizations.
-- Adding new insights.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
