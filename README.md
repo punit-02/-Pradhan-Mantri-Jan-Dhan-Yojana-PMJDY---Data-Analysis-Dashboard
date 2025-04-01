@@ -1,4 +1,4 @@
-# Pradhan Mantri Jan Dhan Yojana (PMJDY) - Data Analysis Dashboard
+# Analysis of Financial Inclusion Under Pradhan Mantri Jan Dhan Yojana (PMJDY)
 
 ![Image](https://github.com/user-attachments/assets/78c6221b-b91a-4d89-94d1-92098f1a9f19)
 
