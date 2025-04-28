@@ -63,7 +63,8 @@ This project provides an analytical overview of the **Pradhan Mantri Jan Dhan Yo
    
 ## Technologies Used
 - **Power BI** for visualization
-- **EXCEL** for data extraction & transformation
+- **EXCEL** and **Python** for data extraction & transformation
+- **MYSQL**
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
